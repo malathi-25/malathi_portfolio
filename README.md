@@ -5,21 +5,29 @@ This is my personal portfolio website designed in Figma. It showcases my technic
 ✨ Features
 
 Fully responsive design (Mobile, Tablet, Desktop)
+
 Smooth scroll-reveal animations
+
 Copy-to-clipboard contact functionality
+
 Modern and clean UI design
+
 Optimized performance and structured layout
 
 🛠️ Technologies Used
 
 Figma (UI Design)
+
 Git & GitHub
 
 📂 Sections Included
 
 About Me
+
 Technical Skills
+
 Professional Experience (Tech + HR)
+
 Projects (Frontend, Backend, UI/UX)
 
 Contact Information
