@@ -36,6 +36,12 @@ Contact Information
 
 👉 https://malathi-25.github.io/malathi-portfolio/
 
+Tool: Figma
+
+Figma (Design) Link: https://www.figma.com/design/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=0-1&t=kDtwKje4X2meEUl0-1
+
+Prototype link: https://www.figma.com/proto/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=0-1&t=kDtwKje4X2meEUl0-1
+
 🎨 Design Process
 
 The UI was first designed in Figma and then manually converted into clean, structured code following best practices.
