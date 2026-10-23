@@ -38,9 +38,10 @@ Contact Information
 
 Tool: Figma
 
-Figma (Design) Link: https://www.figma.com/design/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=0-1&t=kDtwKje4X2meEUl0-1
+Figma (Design) Link: https://www.figma.com/design/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=180-875&t=7nTH73ATijiSiVc3-1
 
-Prototype link: https://www.figma.com/proto/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=0-1&t=kDtwKje4X2meEUl0-1
+Prototype link: 
+https://www.figma.com/design/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=180-875&t=7nTH73ATijiSiVc3-1
 
 🎨 Design Process
 
